@@ -184,7 +184,7 @@ function ProductGrid({ category }) {
                                 })
                             ) : (
                                 <span className="text-center w-full block mt-5">
-                                    Aucun voitures dans cette gamme de prix.
+                                    Aucun voitures 
                                 </span>
                             )}
                         </ul>
